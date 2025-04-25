@@ -1,23 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Monaco;}
-{\colortbl;\red255\green255\blue255;\red71\green91\blue98;\red57\green61\blue65;\red37\green146\blue134;
-\red34\green163\blue230;}
-{\*\expandedcolortbl;;\cssrgb\c34510\c43137\c45882;\cssrgb\c28627\c30588\c32157;\cssrgb\c16471\c63137\c59608;
-\cssrgb\c13333\c70196\c92157;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
-
-\f0\fs27 \cf2 \expnd0\expndtw0\kerning0
-cff-version\cf3 : \cf4 1.2.0\cf3 \
-\cf2 message\cf3 : \cf4 "If\cf5  \cf4 you\cf5  \cf4 use\cf5  \cf4 this\cf5  \cf4 software,\cf5  \cf4 please\cf5  \cf4 cite\cf5  \cf4 it\cf5  \cf4 as\cf5  \cf4 below."\cf3 \
-\cf2 authors\cf3 :\
-  - \cf2 family-names\cf3 : \cf4 Hamada\cf3 \
-    \cf2 given-names\cf3 : \cf4 Diya\cf3 \
-\cf2 title\cf3 : \cf4 \'93Honeybee Foraging Thesis Repository\'94\cf3 \
-\cf2 version\cf3 : \cf4 2.0.4\cf3 \
-\cf2 identifiers\cf3 :\
-  - \cf2 type\cf3 : \cf4 doi\cf3 \
-    \cf2 value\cf3 : \cf4 10.5281/zenodo.1234\cf3 \
-\cf2 date-released\cf3 : \cf4 2025-04-6\cf3 \
-}
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Hamada
+    given-names: Diya
+title: "Honeybee Foraging Thesis Repository"
+version: 2.0.0
+identifiers:
+date-released: 2025-04-6
